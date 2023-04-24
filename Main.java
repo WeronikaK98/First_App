@@ -6,11 +6,11 @@ import java.util.TreeSet;
 //import java.lang.runtime.SwitchBootstraps;
 import java.util.SortedSet;
 import java.util.TreeSet;
-import org.example.Child;
-import org.example.Parent;
-import org.example.Lesson;
-import org.example.SportActivity;
-import org.example.ArtisticLessons;
+import org.example.People.Child;
+import org.example.People.Parent;
+import org.example.Lessons.Lesson;
+import org.example.Lessons.SportActivity;
+import org.example.Lessons.ArtisticLessons;
 
 public class Main {
     public static void main(String[] args)
